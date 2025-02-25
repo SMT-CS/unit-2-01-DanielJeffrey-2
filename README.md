@@ -15,7 +15,7 @@
 ```
 - to run black to lint your python code
 ```console
-  black --check --diff ./*.py
+  ./
 ```
 
 **C**
